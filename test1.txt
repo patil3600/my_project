@@ -1,1 +1,3 @@
-First line
+myfile
+adding the second line and 
+the third line for testing the git undo commit
