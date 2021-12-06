@@ -3,3 +3,4 @@ adding the second line and
 the third line for testing the git undo commit
 ****************
 &&&&&&&&&&&
+Adding this changes ti the test1.txt
