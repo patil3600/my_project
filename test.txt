@@ -1,0 +1,3 @@
+dding the fiest line to test.txt
+
+thie is my text for checking the unstaging of the file
